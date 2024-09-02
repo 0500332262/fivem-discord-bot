@@ -1,7 +1,7 @@
 {
-  "BOT_TOKEN": "token",
-  "SERVER_URL": "ip:port_or_link",
-  "CHANNEL_ID": "channel_ID",
-  "DIRECT_CONNECT_LINK": "DIRECT_CONNECT_LINK",
+  "BOT_TOKEN": "MTI3OTkxMTUyOTAwMDQ2ODU0Mg.GFobzl.UGx15DU2V76P-dFGHdHXk7XllBhMIZHMyqSDOo",
+  "SERVER_URL": "https://discord.gg/d6ES8guw7q",
+  "CHANNEL_ID": "996065504806576168",
+  "DIRECT_CONNECT_LINK": "3okyeo",
   "updateMinutes": 1
 }
